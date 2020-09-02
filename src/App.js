@@ -6,15 +6,15 @@ function App() {
   return (
     <div className="App">
 
-      <Dinner dishName="Nihaari" sweetDish="Kheer"/>
+      <Dinner dishName="Kebab" sweetDish="Baklava"/>
 
       <hr/>
 
-      <Dinner dishName="Biryani" sweetDish="Jalebi"/>
+      <Dinner dishName="Manti" sweetDish="Kunefe"/>
 
       <hr/>
 
-      <Dinner dishName="Karahi" sweetDish="Halwa"/>
+      <Dinner dishName="pide" sweetDish="Halwa"/>
 
     </div>
   );
